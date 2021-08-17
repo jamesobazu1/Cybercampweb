@@ -1,0 +1,33 @@
+body{
+    background-image: url(images/coding.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+button{
+    margin-top: 20px;
+}
+.navbar img {
+margin-top:50px;
+margin-bottom:50px;
+}
+.free{
+    color: blue;
+}
+.style{
+    border-radius:200px;
+    padding: 10px;
+    color: black;
+}
+.high{
+    color: black;
+}
+.second{
+    color: white;
+}
+.style{
+    color: black;
+}
+.collection{
+    color:grey;
+}
